@@ -1,5 +1,5 @@
 # Set path to TreeSize executable
-$treeSizePath = "C:\Program Files (x86)\Jam Software\TreeSize Free\TreeSize.exe"
+$treeSizePath = ".\TreeSizeFree-Portable\TreeSizeFree.exe"
 
 # Set the output file path for CSV format
 $outputFile = "C:\Temp\tree_size_output.csv"
