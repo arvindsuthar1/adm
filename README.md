@@ -1,3 +1,5 @@
+act as devops engineer and create powershell script to enable connection for ansible on public network with -skipnetwork profilecheck
+
 To enable PowerShell script execution and allow remote commands on your system, you'll need to adjust the PowerShell execution policy and configure remote management settings.
 
 ### 1. **Enable PowerShell Script Execution**
